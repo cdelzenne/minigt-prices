@@ -1,0 +1,25 @@
+# MiniGT rare models price tracker
+
+> Retail and resale prices in Hong Kong dollars (HKD) for 13 rare Mini GT 1:64 diecast models, matched on exact catalogue numbers. Last updated 2026-10-08.
+
+Retail = average listed price for a new car (sold-out listings included and flagged). "Close match" = same car under another catalogue code because no shop lists the exact code. Resale = secondary-market range, usually eBay asking prices. Sources are linked on each model page.
+
+## Models
+
+- [MGT00050-MJ Pagani Huayra Roadster (Red) — USA Exclusive, MiJo Exclusives (blister)](https://minigt-prices.vercel.app/cars/mgt00050-mj): retail avg HK$98.99 (sold out); resale HK$109.79; checked 2026-10-08
+- [MGT00146 LB★WORKS Lamborghini Huracán GT Magic Green — Tarmac Works x Mini GT collab (2020)](https://minigt-prices.vercel.app/cars/mgt00146): retail avg HK$152.39 (close match); resale: not yet known; checked 2026-10-08
+- [MGT00370-L Pagani Zonda HP Barchetta Blue Tricolore (LHD)](https://minigt-prices.vercel.app/cars/mgt00370-l): retail avg HK$129.32 (sold out); resale: not yet known; checked 2026-10-08
+- [MGT00499-L Lamborghini Huracán GT3 EVO #39 2022 IMSA Road America 2nd Place (LHD)](https://minigt-prices.vercel.app/cars/mgt00499-l): retail avg HK$110.68; resale: not yet known; checked 2026-10-06
+- [MGT00652-R Nissan Silvia S15 LB-Super Silhouette "Garuda" — Mini GT x MIZU Diecast (RHD)](https://minigt-prices.vercel.app/cars/mgt00652-r): retail avg HK$123.19 (sold out); resale: not yet known; checked 2026-10-08
+- [MGT00777-MJ McLaren 720S LB★Works Black — MiJo Exclusives (blister)](https://minigt-prices.vercel.app/cars/mgt00777-mj): retail avg HK$119.27 (sold out); resale: not yet known; checked 2026-10-08
+- [MGT00828-CH McLaren 720S LB★Works Gem Red (-CH version)](https://minigt-prices.vercel.app/cars/mgt00828-ch): retail avg HK$76.98 (close match) (sold out); resale: not yet known; checked 2026-10-08
+- [MGT00841-CH McLaren 720S LB★Works Purple (-CH version)](https://minigt-prices.vercel.app/cars/mgt00841-ch): retail avg HK$117.68 (close match) (sold out); resale: not yet known; checked 2026-10-08
+- [MGT00967-CH Lamborghini Huracán LB★WORKS ver. 2 Mad Mike NIMBUL (-CH version)](https://minigt-prices.vercel.app/cars/mgt00967-ch): retail avg HK$87.98 (close match) (sold out); resale: not yet known; checked 2026-10-08
+- [MGT01052-CH Porsche 911 GT3 R #77 AO Racing "Roxy" 2024 IMSA Road America (-CH version, priced as MGT01052-L)](https://minigt-prices.vercel.app/cars/mgt01052-ch): retail avg HK$429.50 (sold out); resale HK$407.96; checked 2026-10-06
+- [MGT01083-L McLaren 720S LB★Works "The Boring Concept" (LHD)](https://minigt-prices.vercel.app/cars/mgt01083-l): retail avg HK$146.87; resale: not yet known; checked 2026-10-08
+- [MGT01143-L Porsche 911 GT3 R #77 AO Racing "Skeleton Rexy" 2025 IMSA Petit Le Mans (LHD)](https://minigt-prices.vercel.app/cars/mgt01143-l): retail avg HK$267.73; resale: not yet known; checked 2026-10-08
+- [MGT01301-BLC Ford Mustang GTD America 250, USA Exclusive (MiJo blister) — Chase](https://minigt-prices.vercel.app/cars/mgt01301-blc): retail avg HK$217.66 (close match); resale HK$392.38–HK$549.25; checked 2026-10-06
+
+## About
+
+- [How prices are collected](https://minigt-prices.vercel.app/#method)
