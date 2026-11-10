@@ -58,7 +58,9 @@ h2{font:700 26px/1.15 var(--f-display);margin:24px 0 8px}
 .k{font:500 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .v{font:600 22px var(--f-display);font-variant-numeric:tabular-nums}
 .v.mono{font:500 15px var(--f-mono)}
-.cargrid{display:grid;grid-template-columns:minmax(0,340px) minmax(0,1fr);gap:20px;align-items:start}
+.carhead{display:grid;gap:16px 24px;align-items:start}
+.carhead.has-photo{grid-template-columns:minmax(0,1fr) minmax(0,300px)}
+.carhead-text{min-width:0}
 .minw{min-width:0}
 .hero{margin:0;display:grid;gap:6px}
 .big{width:100%;aspect-ratio:4/3;object-fit:contain;background:var(--photo);border-radius:6px}
@@ -75,7 +77,8 @@ ul.ex{margin:0;padding-left:18px;color:var(--muted);font-size:14px;display:grid;
 footer{font-size:13px;color:var(--muted);max-width:80ch;border-top:1px solid var(--line);padding-top:16px}
 footer p{margin:0 0 8px}
 @media (max-width:760px){
- .cargrid{grid-template-columns:1fr}
+ .carhead.has-photo{grid-template-columns:1fr}
+ .carhead .hero{max-width:420px}
 }
 @media (max-width:640px){
  .wrap{padding-block:16px 40px;gap:16px}

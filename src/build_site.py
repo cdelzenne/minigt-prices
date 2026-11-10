@@ -59,7 +59,17 @@ def pill(s):
     if re.search(r"in stock|available|active", t) and not re.search(r"no longer|not ", t): cls = "ok"
     elif SOLD.search(t): cls = "warn"
     else: cls = "na"
-    return f'<span class="pill {cls}">{e(s or "unknown")}</span>'
+    full = (s or "unknown").strip()
+    short = short_status(full)
+    tip = f' title="{e(full)}"' if short != full else ""
+    return f'<span class="pill {cls}"{tip}>{e(short)}</span>'
+
+STATUS_MAX = 29  # status labels stay under 30 characters so tables never scroll sideways
+def short_status(s):
+    t = re.split(r"\s+[—–-]\s+|\s*\(|;|,", s, maxsplit=1)[0].strip() or s
+    if len(t) > STATUS_MAX:
+        t = t[:STATUS_MAX - 1].rsplit(" ", 1)[0].rstrip(" .,;:") + "…"
+    return t
 
 def src_table(rows):
     if not rows: return ""
@@ -204,10 +214,13 @@ for c in cars:
         credit = f' · Photo: <a href="{e(safe_url(p.get("sourceUrl")))}" rel="nofollow noopener" target="_blank">{e(p.get("source","source"))}</a>' if p.get("sourceUrl") else ""
         fig = f'<figure class="hero">{photo_tag(c,"big",800,600,lazy=False)}<figcaption>{e(p.get("caption",""))}{credit}</figcaption></figure>'
     body = f'''<nav class="crumbs" aria-label="Breadcrumb"><a href="/">All models</a> › <span>{e(c["code"])}</span></nav>
-<header class="carhead">
+<header class="carhead{" has-photo" if fig else ""}">
+  <div class="carhead-text">
   <div class="eyebrow">Mini GT · 1:64 · {e(c["code"])}</div>
   <h1>{e(c["name"])}</h1>
   <p class="lede">{e(full)}</p>
+  </div>
+  {fig}
 </header>
 <div class="facts">
   <div><span class="k">Retail (new, HKD)</span><span class="v">{retail_html(ri)}</span></div>
@@ -215,10 +228,7 @@ for c in cars:
   <div><span class="k">Catalogue number</span><span class="v mono">{e(c["code"])}</span></div>
   <div><span class="k">Checked</span><span class="v mono">{e(c.get("checkedAt",""))}</span></div>
 </div>
-<div class="cargrid">
-  {fig}
-  <section class="minw"><h2 class="h3">Retail price · new</h2>{retail_block}</section>
-</div>
+<section class="minw"><h2 class="h3">Retail price · new</h2>{retail_block}</section>
 <section><h2 class="h3">Resale price · secondary market</h2>{resale_block}</section>
 {excl}
 {f'<p class="note">{e(c["notes"])}</p>' if c.get("notes") else ""}
@@ -318,7 +328,8 @@ for c in cars:
     llms.append(f'- [{c["code"]} {c["name"]}]({BASE}/cars/{slug(c["code"])}): {r1}; {r2}; checked {c.get("checkedAt","")}')
 llms += ["", "## About", "", f"- [How prices are collected]({BASE}/#method)"]
 open(os.path.join(OUT, "llms.txt"), "w").write("\n".join(llms) + "\n")
-open(os.path.join(OUT, "favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#1b4f8a"/><text x="32" y="42" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">GT</text></svg>')
+if not os.path.exists(os.path.join(OUT, "favicon.svg")):  # keep the repo's own favicon
+    open(os.path.join(OUT, "favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#1b4f8a"/><text x="32" y="42" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">GT</text></svg>')
 open(os.path.join(OUT, "vercel.json"), "w").write(json.dumps({
     "cleanUrls": True, "trailingSlash": False,
     "headers": [{"source": "/photos/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=604800"}]},
