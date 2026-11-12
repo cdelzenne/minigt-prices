@@ -1,6 +1,6 @@
 # MiniGT rare models price tracker
 
-Retail and resale prices for rare Mini GT 1:64 diecast models, in Hong Kong dollars, matched on the exact catalogue number.
+Retail and resale prices for rare Mini GT 1:64 diecast models, in Hong Kong dollars, matched on the exact catalogue number. SEO and GEO optimized.
 
 Live site: https://minigt-prices.vercel.app
 
