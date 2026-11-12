@@ -1,0 +1,71 @@
+{
+  "code": "MGT00828-CH",
+  "name": "McLaren 720S LB★Works Gem Red (-CH version)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Mini GT prototype photo, LHD (no -CH or box photo found)",
+    "sourceUrl": "https://horizondiecast.com/products/preorderminigt-1-64-mclaren-720s-lb-works-gem-red",
+    "source": "Horizon Diecast"
+  },
+  "retailClose": [
+    {
+      "shop": "Horizon Diecast (CA) — MGT00828",
+      "price": "C$13.99",
+      "hkd": 77.62,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/preorderminigt-1-64-mclaren-720s-lb-works-gem-red"
+    },
+    {
+      "shop": "Auto Miniature 54 (FR) — MGT00828",
+      "price": "€16.95",
+      "hkd": 148.1,
+      "status": "Add to cart shown (no explicit stock indicator)",
+      "url": "https://www.autominiature54.com/en/1-64/22780-mclaren-720s-lb-works-gem-red-mgt00828-mini-gt.html"
+    },
+    {
+      "shop": "Borges & Idea (PT) — MGT00828-L",
+      "price": "€14.90",
+      "hkd": 130.19,
+      "status": "Sold out",
+      "url": "https://borgeseidea.com/en-en/products/mclaren-720s-lb-works-gem-red"
+    },
+    {
+      "shop": "Hobbyco (AU) — MGT00828R",
+      "price": "A$24.99",
+      "hkd": 134.51,
+      "status": "Sold out",
+      "url": "https://www.hobbyco.com.au/products/1-64-mclaren-720s-lb-works-gem-red"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov treating -CH as a regular catalogue suffix (not chase). No shop or resale listing showing MGT00828-CH was found. The listings found carry MGT00828, -L, -R or no code. eBay item pages could not be opened (except the sold -R listing on earlier runs).",
+  "excluded": [
+    {
+      "label": "eBay DE, MGT00828-R (RHD), £17.98, new, sold 9 Oct (re-opened 1 Nov, still sold)",
+      "url": "https://www.ebay.de/itm/317391359885",
+      "reason": "RHD version, not -CH; already sold"
+    },
+    {
+      "label": "eBay DE, 1/64 MINI-GT McLaren 720S LB Works LHD MGT00828-L (search title only)",
+      "url": "https://www.ebay.de/itm/267482630979",
+      "reason": "LHD version, not -CH; page could not be opened 25 Oct, 1 Nov or 8 Nov"
+    },
+    {
+      "label": "eBay DE, Mini GT McLaren 720S LB-Works Gem Red LHD #828 (search title only)",
+      "url": "https://www.ebay.de/itm/187712131385",
+      "reason": "LHD version, not -CH; page could not be opened 25 Oct or 1 Nov"
+    },
+    {
+      "label": "eBay DE, Mini GT McLaren 720S LB Works Gem Red (LHD) (search title only)",
+      "url": "https://www.ebay.de/itm/197762505923",
+      "reason": "LHD version, not -CH; page could not be opened 25 Oct or 1 Nov"
+    },
+    {
+      "label": "eBay DE product page, related listings 'McLaren 720S LB Works Gem red Mini GT 1:64' EUR 16.90 + EUR 5.95 and 'Gem red - MiJo' EUR 21.90 + EUR 5.70 (re-opened 8 Nov, unchanged)",
+      "url": "https://www.ebay.de/p/17084603829",
+      "reason": "no catalogue code shown (MiJo listing likely -MJ); not -CH"
+    }
+  ],
+  "fx": "1 CAD = 5.5484 HKD, 1 EUR = 8.7373 HKD, 1 AUD = 5.3827 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: all four close-match shop pages re-opened, prices and stock unchanged (HKD re-converted at 8 Nov rates). No retail listing for MGT00828-CH found."
+}

@@ -1,0 +1,93 @@
+{
+  "code": "MGT00050-MJ",
+  "name": "Pagani Huayra Roadster (Red) — USA Exclusive, MiJo Exclusives (blister)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": true,
+    "caption": "Blister pack and car",
+    "sourceUrl": "https://www.ebay.com/itm/358677457562",
+    "source": "eBay listing"
+  },
+  "retail": [
+    {
+      "shop": "Horizon Diecast (CA)",
+      "price": "C$17.99",
+      "hkd": 99.82,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/mini-gt-1-64-pagani-huayra-roadster-red-usa-exclusive"
+    }
+  ],
+  "resale": [
+    {
+      "shop": "eBay US (new, blister, MPN MGT00050-MJ)",
+      "price": "US$13.99 + US$5.99 shipping",
+      "hkd": 109.69,
+      "status": "Active listing",
+      "url": "https://www.ebay.com/itm/358677457562"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov: only one resale listing shows the exact code; it is an asking price, not a sale. Other eBay listings found by search could not be opened.",
+  "resaleRange": {
+    "low": 109.69,
+    "high": 109.69,
+    "label": "1 eBay asking price, + US$5.99 shipping"
+  },
+  "excluded": [
+    {
+      "label": "Walmart (seller Bloom Trading), US$15.00",
+      "url": "https://www.walmart.com/ip/MINI-GT-1-64-PAGANI-HUAYRA-ROADSTER-RED-USA-EXCLUSIVE-MGT00050/879020270",
+      "reason": "model number shown as MGT00050, no -MJ suffix"
+    },
+    {
+      "label": "BT Diecast, $11.99, out of stock",
+      "url": "https://btdiecast.com/product/minigt-mgt00050/",
+      "reason": "SKU shown as MGT00050, no -MJ suffix (and '$' without currency code)"
+    },
+    {
+      "label": "LiveCarModel, US$39.95, Pagani Huayra Roadster (Red)",
+      "url": "https://livecarmodel.com/products/1-64-mini-gt-mini-gt-pagani-huayra-roadster-red-diecast-car-model.html",
+      "reason": "no model code on page and not stated as USA exclusive/MiJo"
+    },
+    {
+      "label": "eBay (seller in Japan), Huayra Roadster Rosso Monza, US$38.20, used",
+      "url": "https://www.ebay.com/itm/336330826660",
+      "reason": "Toys R Us Japan boxed version, no MGT00050-MJ code; not the USA-exclusive MiJo blister"
+    },
+    {
+      "label": "eBay AU (seller in Japan), 'MINI GT Pagani Huayra Roadster', US$69.06 + US$17.00 shipping, used, ended 20 Jul 2026",
+      "url": "https://www.ebay.com.au/itm/366499768752",
+      "reason": "no MPN or colour stated; listing has ended"
+    },
+    {
+      "label": "eBay US, Mini GT Pagani Huayra Roadster Black #417, US$17.88",
+      "url": "https://ebay.com/itm/256427247025",
+      "reason": "different car (black, #417), not MGT00050-MJ"
+    },
+    {
+      "label": "Tokopedia (Ciputat Diecast Store), MiniGT #50 Pagani Huayra Roadster Rosso Monza (Segel), Rp500.000, 1 left",
+      "url": "https://www.tokopedia.com/ciputatdiecaststore/minigt-mini-gt-50-pagani-huayra-roadster-rosso-monza-segel-1730828432090367016",
+      "reason": "no model code, not stated as USA exclusive/MiJo blister; IDR has no rate in this run"
+    },
+    {
+      "label": "Tokopedia (Energy Global Angkasa), Mini GT 50 Pagani Huayra Roadster Rosso Monza, Rp1.950.000",
+      "url": "https://www.tokopedia.com/energy-global-angkasa/mini-gt-pagani-huayra-roadster-rosso-monza-diecast-1-64-mini-gt-50-1736285569332708650",
+      "reason": "seen only on a Tokopedia search page (not opened); no model code, not stated as USA exclusive/MiJo"
+    },
+    {
+      "label": "Amazon US, 'Pagani Huayra Roadster (RED) (USA Exclusive) - MIJO Exclusives MGT00050-MJ' (search result)",
+      "url": "https://www.amazon.com/Mini-GT-New-DIECAST-Toys/dp/B07W83F6K2",
+      "reason": "exact code in title, but the page could not be opened on 1 Nov or 8 Nov (blocked), so price, seller and condition are unverified"
+    },
+    {
+      "label": "Amazon US, MGT00050-R Pagani Huayra Roadster Rosso Monza RHD (search result)",
+      "url": "https://www.amazon.com/MINI-GT-MGT00050-R-die-cast-Description/dp/B07R948HJP",
+      "reason": "different code (-R, right-hand drive), not the MiJo exclusive; not opened"
+    },
+    {
+      "label": "eBay DE/US items 306178047544 and 287092071925 (search results for MGT00050 Pagani Huayra Roadster)",
+      "url": "https://www.ebay.de/itm/306178047544",
+      "reason": "pages could not be opened on 8 Nov; code, colour and price unverified"
+    }
+  ],
+  "fx": "1 CAD = 5.5484 HKD, 1 USD = 7.8403 HKD (XE mid-market, 8 Nov 2026)"
+}

@@ -1,0 +1,119 @@
+{
+  "code": "MGT00499-L",
+  "name": "Lamborghini Huracán GT3 EVO #39 2022 IMSA Road America 2nd Place (LHD)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Car photo (no box photo found)",
+    "sourceUrl": "https://www.hlj.com/1-64-scale-lamborghini-huracan-gt3-evo-imsa-road-america-2022-2nd-place-winner-39-left-handle-mngmgt00499-l",
+    "source": "HobbyLink Japan"
+  },
+  "retail": [
+    {
+      "shop": "HobbyDigi (HK)",
+      "price": "HK$59.90",
+      "hkd": 59.9,
+      "status": "Stock not shown — could not be re-opened 1 Nov or 8 Nov; price from 25 Oct",
+      "url": "https://www.hobbydigi.com/en_us/tsm-1-64-mini-gt-diecast-model-car-lamborghini-huracan-gt3-evo-39-2022-imsa-road-america-2nd-place-lhd"
+    },
+    {
+      "shop": "HobbyLink Japan",
+      "price": "US$15.61 (was US$17.35)",
+      "hkd": 122.39,
+      "status": "Discontinued, out of stock",
+      "url": "https://www.hlj.com/1-64-scale-lamborghini-huracan-gt3-evo-imsa-road-america-2022-2nd-place-winner-39-left-handle-mngmgt00499-l"
+    },
+    {
+      "shop": "Cartima Modelcars (DE)",
+      "price": "€16.95",
+      "hkd": 148.1,
+      "status": "No longer available",
+      "url": "https://www.cartima-modelcars.de/en/lamborghini-huracan-gt3-evo-imsa-road-america-2022-mini-gt-1-64-mgt00499-l/MGT00499-L"
+    }
+  ],
+  "resaleNote": "No verified resale price (re-checked 8 Nov). The eBay UK catalogue page for MGT00499-L is sold out with no price. Active eBay listings of #499 (US$95–116, £109.07, £165.43) show MGT00499 without the -L suffix or no code, and others are chase/MiJo Exclusive versions, so they can't be matched. Carousell HK, Shopee TW and eBay AU results could not be read.",
+  "excluded": [
+    {
+      "label": "MGT00499-CH (Horizon Diecast)",
+      "url": "https://horizondiecast.com/products/mini-gt-1-64-lamborghini-huracan-gt3-evo-39-2022-imsa-road-america-2nd-place-mgt00499-ch",
+      "reason": "different code (-CH), not -L"
+    },
+    {
+      "label": "MGT00499-MJ (M&J Toys, US$19.99 MSRP, out of stock)",
+      "url": "https://www.mjtoysinc.com/product/mini-gt-164-lamborghini-huracan-gt3-evo-39-2022-imsa-road-america-2nd-place-mijo-exclusive-usa/",
+      "reason": "MiJo Exclusives USA blister-pack version"
+    },
+    {
+      "label": "Modelmatic UK, £19.99, sold out",
+      "url": "https://modelmatic.uk/products/499-lamborghini-huracan-gt3-evo-39-2022-imsa-road-america-2nd-place",
+      "reason": "listed as MGT00499 without the -L suffix"
+    },
+    {
+      "label": "eBay US listings at US$95–260 (US$115.99 new, US$95 open box from Indonesia, US$119.99 'Exclusive' ended 31 Oct, US$260 loose chase)",
+      "url": "https://www.ebay.com/p/21061312575",
+      "reason": "MPN MGT00499 without the -L suffix, or chase/MiJo Exclusive versions; none shows the exact code MGT00499-L"
+    },
+    {
+      "label": "eBay UK (seller in Coventry), 'MGT00499 LHD', new unopened box, £109.07 + £30.00 postage, active",
+      "url": "https://www.ebay.co.uk/itm/306990155692",
+      "reason": "titled MGT00499 LHD without the -L suffix; the MiJo -MJ version is also LHD, so LHD alone does not prove -L. The eBay UK catalogue page for MGT00499-L itself is sold out with no price"
+    },
+    {
+      "label": "LiveCarModel, US$89.95",
+      "url": "https://livecarmodel.com/products/1-64-mini-gt-lamborghini-huracan-gt3-evo-39-2022-imsa-road-america-2nd-place-diecast-car-model.html",
+      "reason": "catalogue number not shown on the page"
+    },
+    {
+      "label": "eBay DE '#499 GRAY' chase listing, sold out",
+      "url": "https://www.ebay.de/itm/306523264967",
+      "reason": "marked as chase, MPN MGT00499 without the -L suffix, sold out with no price"
+    },
+    {
+      "label": "Shopee Brazil via escorregaopreco.com.br aggregator, MGT00499-L, R$109,00",
+      "url": "https://escorregaopreco.com.br/ofertas/shopee/6818412",
+      "reason": "aggregator page, not the Shopee listing itself; seller and condition not shown"
+    },
+    {
+      "label": "eBay UK (seller in Luton), '#39 # 499 IMSA Road America 2nd Place', new, £165.43 or best offer",
+      "url": "https://www.ebay.co.uk/itm/158177022371",
+      "reason": "no catalogue code, drive side or version stated"
+    },
+    {
+      "label": "Passion Diecast (CA), MGT00499, $61.95, sold out",
+      "url": "https://passiondiecast.com/en/shop-by-category/28586-web-only-lamborghini-hurac%C3%A1n-gt3-evo-no39-2022-imsa-road-america-2nd-place-mini-gt-164-mgt00499-4895183673143.html",
+      "reason": "SKU MGT00499 without suffix, drive side not stated, and '$' has no currency code"
+    },
+    {
+      "label": "Mobile Garage HK, #499, €17.95",
+      "url": "https://www.mobilegaragehk.com/products/mini-gt-1-64-scale-499-lamborghini-huracan-gt3-evo-evo-39-2022-imsa-road-america-2nd-place",
+      "reason": "no catalogue code or drive side shown; stock status contradictory"
+    },
+    {
+      "label": "HobbySearch (1999.co.jp), Huracan GT3 EVO #39 (LHD) (search result)",
+      "url": "https://www.1999.co.jp/eng/10940652",
+      "reason": "page could not be opened on 8 Nov; code and price unverified"
+    },
+    {
+      "label": "Carousell HK, 'Mini gt 499 ... Road America 2nd Place' (search result)",
+      "url": "https://www.carousell.com.hk/p/mini-gt-499-1-64-lamborghini-huracan-gt3-evo-39-2022-imsa-road-america-2nd-place-minigt-%E6%9E%97%E5%AF%B6-1232986147/",
+      "reason": "page could not be opened on 8 Nov; code, version and price unverified"
+    },
+    {
+      "label": "Shopee TW, 'MINI GT 499 Lamborghini Huracan GT3 EVO #39' (search result)",
+      "url": "https://shopee.tw/product/103983448/42001915365",
+      "reason": "page needs JavaScript and showed no listing details on 8 Nov"
+    },
+    {
+      "label": "eBay AU item 175782085408, '#39 ... Road America 2nd Place 499' (search result)",
+      "url": "https://www.ebay.com.au/itm/175782085408",
+      "reason": "page could not be opened on 8 Nov; code and price unverified"
+    },
+    {
+      "label": "Amazon US, MGT00499 (search result)",
+      "url": "https://www.amazon.com/Miniatures-Compatible-Lamborghini-Hurac%C3%A1n-MGT00499/dp/B0C8SDRPD5",
+      "reason": "title shows MGT00499 with no suffix, and the page is blocked"
+    }
+  ],
+  "fx": "1 USD = 7.8403 HKD, 1 EUR = 8.7373 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: HobbyLink Japan now shows US$15.61 (was US$15.71), still discontinued; Cartima unchanged at €16.95, no longer available; HobbyDigi page could not be opened on 1 Nov or 8 Nov (price kept from 25 Oct). No new exact-code listings found."
+}

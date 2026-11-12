@@ -1,0 +1,93 @@
+{
+  "code": "MGT00967-CH",
+  "name": "Lamborghini Huracán LB★WORKS ver. 2 Mad Mike NIMBUL (-CH version)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Mini GT prototype photo, RHD shown (no -CH or box photo found)",
+    "sourceUrl": "https://horizondiecast.com/products/preorder-minigt-1-64-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul-mgt00967",
+    "source": "Horizon Diecast"
+  },
+  "retailClose": [
+    {
+      "shop": "Horizon Diecast (CA) — MGT00967, box",
+      "price": "C$14.99 (sale, was C$18.99)",
+      "hkd": 83.17,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/preorder-minigt-1-64-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul-mgt00967"
+    },
+    {
+      "shop": "Horizon Diecast (CA) — MGT00967-BL, blister",
+      "price": "C$16.99 (sale, was C$21.99)",
+      "hkd": 94.27,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/preorder-minigt-1-64-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul-mgt00967"
+    },
+    {
+      "shop": "Selection RS (FR) — MGT00967-R",
+      "price": "€14.95",
+      "hkd": 130.62,
+      "status": "Out of stock",
+      "url": "https://selectionrs.com/en/lamborghini-model-cars/27730-lamborghini-huracan-lb-works-v-2-mad-mike-nimbul-2024-1-64-mini-gt-mgt00967-r.html"
+    },
+    {
+      "shop": "Treasured Models (HK) — MGT00967, LBWK card blister",
+      "price": "HK$390.00",
+      "hkd": 390.0,
+      "status": "Sold out",
+      "url": "https://treasuredmodels.com/products/mini-gt-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul-lbwk-card-blister-packaging-mgt00967-1-64-diecast"
+    },
+    {
+      "shop": "Model Cars Houston (US) — MGT00967-BL, blister",
+      "price": "US$17.99",
+      "hkd": 141.05,
+      "status": "Sold out",
+      "url": "https://www.modelcarshouston.com/products/preorder-mini-gt-1-64-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov treating -CH as a regular catalogue suffix (not chase). No shop or resale listing showing MGT00967-CH could be found or opened. The listings found carry MGT00967 (box), -BL (blister) or -R (RHD). eBay pages could not be opened this run.",
+  "excluded": [
+    {
+      "label": "Krazy Caterpillar (IN), MGT00967, Rs 1,349, sold out",
+      "url": "https://krazycaterpillar.com/products/mini-gt-967-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul",
+      "reason": "different code, not -CH (not used in the close match: no verified INR rate)"
+    },
+    {
+      "label": "eBay US, MGT00967R, sold out",
+      "url": "https://www.ebay.com/itm/116508045553",
+      "reason": "RHD version, not -CH; no price shown"
+    },
+    {
+      "label": "eBay US, MGT00967, US$39.99, new, out of stock (31 sold)",
+      "url": "https://www.ebay.com/itm/187712106834",
+      "reason": "different code (MGT00967), not -CH"
+    },
+    {
+      "label": "Black Ice Diecast (NZ), MGT00967, box NZ$45 / clamshell blister NZ$90",
+      "url": "https://blackicediecast.com/products/mgt00967-mini-gt-1-64-lamborghini-huracan-lbworks-ver-2-mad-mike-nimbul",
+      "reason": "not -CH; stock status contradictory, no fixed NZD rate in rules"
+    },
+    {
+      "label": "eBay DE (US seller), MGT00967, US$59.99, free shipping, new (re-opened 1 Nov, still listed)",
+      "url": "https://www.ebay.de/itm/167909814097",
+      "reason": "different code (MGT00967), not -CH"
+    },
+    {
+      "label": "eBay DE (HK seller), MGT00967-R, US$45.99 or best offer (was US$49.99), new, 2 available (re-opened 1 Nov)",
+      "url": "https://www.ebay.de/itm/397192486606",
+      "reason": "RHD version, not -CH"
+    },
+    {
+      "label": "eBay DE, Mini GT Huracan LB-WORKS Ver. 2 Mad Mike NIMBUL MGT00967 (search title only)",
+      "url": "https://www.ebay.de/itm/277484019964",
+      "reason": "different code (MGT00967), not -CH; page could not be opened 25 Oct"
+    },
+    {
+      "label": "Carousel Store / Playvia (UK), MGT00967, £69.02, sold out, brand shown as 'Generic'",
+      "url": "https://www.carouselstore.co.uk/products/1-64-diecast-lamborghini-huracan-lb-works-ver-2-mad-mike-nimbul-mgt00967-limited-edition-generic",
+      "reason": "different code (MGT00967), not -CH; brand not shown as Mini GT"
+    }
+  ],
+  "fx": "1 CAD = 5.5484 HKD, 1 EUR = 8.7373 HKD, 1 USD = 7.8403 HKD, 1 HKD = 1 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: four close-match shop rows re-opened, prices and stock unchanged (HKD re-converted at 8 Nov rates). Added Model Cars Houston (US) MGT00967-BL blister, US$17.99, sold out. No retail listing for MGT00967-CH found."
+}

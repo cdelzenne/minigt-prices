@@ -1,0 +1,135 @@
+{
+  "code": "MGT01052-CH",
+  "name": "Porsche 911 GT3 R #77 AO Racing \"Roxy\" 2024 IMSA Road America (-CH version, priced as MGT01052-L)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Mini GT prototype photo, regular car (no box photo found)",
+    "sourceUrl": "https://redlinediecast.com.au/products/pre-order-mini-gt-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america-mgt01052-l",
+    "source": "Redline Diecast"
+  },
+  "retail": [
+    {
+      "shop": "Redline Diecast (AU)",
+      "price": "A$79.99",
+      "hkd": 430.56,
+      "status": "Sold out (pre-order listing)",
+      "url": "https://redlinediecast.com.au/products/pre-order-mini-gt-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america-mgt01052-l"
+    },
+    {
+      "shop": "Miniature Collectables (AU)",
+      "price": "A$77.00",
+      "hkd": 414.47,
+      "status": "Sold out (pre-order listing)",
+      "url": "https://www.miniaturecollectables.au/products/porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america-1052"
+    },
+    {
+      "shop": "Hobbyco (AU), SKU shown as MGT01052L",
+      "price": "A$30.99",
+      "hkd": 166.81,
+      "status": "Sold out (notify me when available)",
+      "url": "https://www.hobbyco.com.au/products/1-64-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america"
+    },
+    {
+      "shop": "Grand Prix Models (UK)",
+      "price": "£19.95",
+      "hkd": 208.89,
+      "status": "Not in stock; available to order (6-8 weeks)",
+      "url": "https://www.grandprixmodels.com/mgt01052-l-porsche-911-gt3r-26th-road-america-2024-77-ao-racing-roxy-164-diecast.aspx"
+    }
+  ],
+  "resale": [
+    {
+      "shop": "eBay UK (new, sealed box, MPN MGT01052-L)",
+      "price": "£39.33",
+      "hkd": 411.81,
+      "status": "Sold 9 Oct (ended listing; price incl. £1.83 buyer protection fee)",
+      "url": "https://www.ebay.co.uk/itm/287628419148"
+    }
+  ],
+  "resaleNote": "Priced as MGT01052-L at the owner's request. Re-checked 8 Nov: still no listing found under MGT01052-CH. Counted: the eBay UK sold price from 9 Oct (ended listing, exact code MGT01052-L). An active eBay.de listing titled MGT01052-L at EUR 49.20 was seen only on a search page (item page blocked), so it is listed under excluded, not counted. Many other eBay.de listings show only MGT01052 / #1052 / -BL.",
+  "resaleRange": {
+    "low": 411.81,
+    "high": 411.81,
+    "label": "-L, 1 eBay sold price"
+  },
+  "excluded": [
+    {
+      "label": "MGT01052-BL at Model Cars Houston, US$19.99, sold out",
+      "url": "https://www.modelcarshouston.com/products/preorder-mini-gt-1-64-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america",
+      "reason": "MiJo blister version"
+    },
+    {
+      "label": "MGT01052-BL at Hanz Driven, US$32.00, sold out",
+      "url": "https://hanzdriven.com/en-us/products/pre-order-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america-mini-gt-1-64-scale",
+      "reason": "MiJo blister version"
+    },
+    {
+      "label": "Toronto Motorsports, C$49.99 blister / C$69.99 standard, in stock",
+      "url": "https://tomotorsports.com/products/2024-porsche-911-gt3-r-ao-racing-roxy-77-andlauer-heinrich-imsa-road-america-164-scale-by-minigt-mgt01052",
+      "reason": "SKU shown only as MGT01052, without the -L suffix"
+    },
+    {
+      "label": "eBay US, US$32.99, out of stock (188 sold)",
+      "url": "https://www.ebay.com/itm/188042449315",
+      "reason": "listed as MGT01052 without the -L suffix"
+    },
+    {
+      "label": "eBay US, US$40.00 boxed and US$51.00 carded",
+      "url": "https://www.ebay.com/itm/137027516204",
+      "reason": "listed as #1052, no catalogue suffix"
+    },
+    {
+      "label": "LiveCarModel, US$59.95",
+      "url": "https://livecarmodel.com/products/1-64-mini-gt-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america-car-model.html",
+      "reason": "catalogue number not shown"
+    },
+    {
+      "label": "Weye Model Cars, $19.99 (currency not named), sold out",
+      "url": "https://weyemodelcars.com/product/pre-order-mini-gt-164-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-america/",
+      "reason": "SKU MIN164PE03, no Mini GT suffix shown; currency ambiguous"
+    },
+    {
+      "label": "eBay.de search, ~25 Road America listings EUR 26.92-128.15 (re-checked 8 Nov)",
+      "url": "https://www.ebay.de/shop/mini-gt-roxy",
+      "reason": "titles show only MGT01052, #1052, 01052, MGT0105 or MGT01052-BL; none with -CH (the single -L listing is counted under resale)"
+    },
+    {
+      "label": "Weye Model Cars (second listing), $29.99, 'only 3 left'",
+      "url": "https://weyemodelcars.com/?p=24269",
+      "reason": "MPN shown as MGT01052 without -L suffix; currency not explicitly named"
+    },
+    {
+      "label": "FINN.no (NO) marketplace listing, #1052 Roxy, price not shown",
+      "url": "https://www.finn.no/recommerce/forsale/item/453558921",
+      "reason": "only #1052 shown, no suffix; no price readable"
+    },
+    {
+      "label": "eBay.de, MINI GT ROXY Porsche 911 GT3 R #77 Road America, US$34.99, sold 21 Aug (109 sold)",
+      "url": "https://www.ebay.de/itm/406708676672",
+      "reason": "no MPN / catalogue suffix shown"
+    },
+    {
+      "label": "eBay.fr, NEW AO Racing IMSA Roxy PINK Mini GT Porsche 911 GT3 R #77, US$34.56, sold 25 Aug",
+      "url": "https://www.ebay.fr/itm/406965333370",
+      "reason": "no MPN / catalogue suffix shown"
+    },
+    {
+      "label": "Pacifiko (GT), Q895.00, in stock, new",
+      "url": "https://pacifiko.com/compras-en-linea/mini-gt-911-gt3-r-77-ao-racing-2024-im-sa-road-america-limited-edition-1-64-diecast-model-car-mgt01052&pid=YThjZjBiND",
+      "reason": "catalogue number shown only as MGT01052, no -L suffix"
+    },
+    {
+      "label": "MGT01052-BL at Hanz Driven (second listing), $33.00 (currency not named), sold out",
+      "url": "https://www.hanzdriven.com/en-us/collections/1-64-scale-models/products/pre-order-porsche-911-gt3-r-77-ao-racing-2024-imsa-road-americamini-gt-1-64-scale",
+      "reason": "MiJo blister version"
+    },
+    {
+      "label": "eBay.de (UK seller), sealed, title shows MGT01052-L, EUR 49.20 + EUR 26.49 shipping",
+      "url": "https://www.ebay.de/shop/mini-gt-roxy",
+      "reason": "seen only on an eBay.de search page; item page could not be opened, so not counted (owner to confirm)"
+    }
+  ],
+  "fx": "1 AUD = 5.3827 HKD, 1 GBP = 10.4706 HKD, 1 EUR = 8.7373 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Base model on the official Mini GT site: https://minigt.tsm-models.com/index.php?action=product-detail&id=1845. Re-checked 8 Nov: all 3 retail pages re-opened, prices unchanged, all sold out. Added Grand Prix Models (UK), £19.95, available to order."
+}

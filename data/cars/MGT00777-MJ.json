@@ -1,0 +1,105 @@
+{
+  "code": "MGT00777-MJ",
+  "name": "McLaren 720S LB★Works Black — MiJo Exclusives (blister)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "MiJo Exclusives promo image (no blister photo found)",
+    "sourceUrl": "https://www.mjtoysinc.com/product/preorder-mini-gt-164-mclaren-720s-lb%E2%98%85works-black-mijo-exclusives/",
+    "source": "M&J Toys"
+  },
+  "retail": [
+    {
+      "shop": "M&J Toys (US distributor, MSRP)",
+      "price": "US$12.99",
+      "hkd": 101.85,
+      "status": "Out of stock (preorders sold) — could not be re-opened 8 Nov; price from 1 Nov",
+      "url": "https://www.mjtoysinc.com/product/preorder-mini-gt-164-mclaren-720s-lb%E2%98%85works-black-mijo-exclusives/"
+    },
+    {
+      "shop": "Model Cars Houston (US)",
+      "price": "US$19.99",
+      "hkd": 156.73,
+      "status": "Sold out",
+      "url": "https://www.modelcarshouston.com/products/preorder-mini-gt-1-64-mclaren-720s-lb-works-in-black"
+    },
+    {
+      "shop": "Carbro MC (CA)",
+      "price": "C$17.99",
+      "hkd": 99.82,
+      "status": "Sold out",
+      "url": "https://www.carbromc.com/products/preorder-mini-gt-1-64-mclaren-720s-lb-works-black"
+    },
+    {
+      "shop": "Ubuy Sri Lanka (imports from US store; MPN MGT00777-MJ, title 'MiJo Exclusives ... MGT00777')",
+      "price": "LKR 8,491 (excl. shipping and customs)",
+      "hkd": 199.98,
+      "status": "In stock (12 left)",
+      "url": "https://www.ubuy.com.lk/en/product/QPVM1SSF4-x-mijo-exclusives-1-64-720s-lb-works-black-left-handle-finished-product-mgt00777"
+    }
+  ],
+  "resale": [
+    {
+      "shop": "eBay US (seller in New York)",
+      "price": "US$24.98 + US$5.99 shipping",
+      "hkd": 195.85,
+      "status": "Active, new, 10+ available (23 sold)",
+      "url": "https://www.ebay.com/itm/297646171314"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov: one eBay listing shows the exact code MGT00777-MJ (new, US$24.98 each plus US$5.99 shipping, more than 10 available, 23 sold); shipping is not included in the HKD figure. Other eBay listings of #777 show MGT00777 or no code, and the car also exists in regular LHD/RHD boxes and a chase, so they can't be matched to the MiJo version. Some eBay DE listings could not be opened.",
+  "resaleRange": {
+    "low": 195.85,
+    "high": 195.85,
+    "label": "1 listing, eBay asking price"
+  },
+  "excluded": [
+    {
+      "label": "HobbyDigi, MGT00777-MJ-CTN, HK$2,137.90",
+      "url": "https://www.hobbydigi.com/en_us/tsm-1-64-mini-gt-x-mijo-exclusive-diecast-model-car-mclaren-720s-lb-e2-98-85works-black-lhdctn-of-2423-2b-1-pcs-chase",
+      "reason": "full carton of 24 (23 regular + 1 chase), not a single car"
+    },
+    {
+      "label": "eBay US, US$49.99 blister, out of stock (129 sold)",
+      "url": "https://www.ebay.com/itm/317174222115",
+      "reason": "MPN shown as MGT00777, no -MJ suffix"
+    },
+    {
+      "label": "eBay US, US$29.99, out of stock (110 sold)",
+      "url": "https://www.ebay.com/itm/376478356573",
+      "reason": "no catalogue number shown"
+    },
+    {
+      "label": "eBay US 'CHASE ... MiJo Exclusive MGT00777', US$99.99",
+      "url": "https://www.ebay.com/p/17084603829",
+      "reason": "chase version, code shown without -MJ suffix"
+    },
+    {
+      "label": "eBay US 'Mini GT 777 McLaren 720S LB Works Black LHD', sold out",
+      "url": "https://www.ebay.com/itm/377239952481",
+      "reason": "MPN shown as MGT00777 without -MJ suffix; no price shown"
+    },
+    {
+      "label": "eBay DE 'CHASE! Mini GT 1:64 McLaren 720S LB Works Black #777'",
+      "url": "https://www.ebay.de/itm/376478445132",
+      "reason": "chase version; page could not be opened"
+    },
+    {
+      "label": "eBay DE catalogue page 'Mini GT 777 McLaren 720S LB Works Black LHD', sold out",
+      "url": "https://www.ebay.de/p/17084603829",
+      "reason": "MPN shown as MGT00777 without -MJ suffix; sold out with no price"
+    },
+    {
+      "label": "eBay DE multi-variant listing (Bremen seller), dropdown includes '777 | McLaren 720S LB★Works | Black | LHD', from €2.99",
+      "url": "https://www.ebay.de/itm/156792335087",
+      "reason": "multi-model listing; no -MJ code or MiJo/blister shown and no variant-specific price"
+    },
+    {
+      "label": "Superhero Toy Store (IN), 'Mclaren 720S Lb Works Black'",
+      "url": "https://www.superherotoystore.com/products/mclaren-720s-lb-works-black-1-64-scale-by-mini-gt-in-india",
+      "reason": "no catalogue code or MiJo/blister shown; no price, not available"
+    }
+  ],
+  "fx": "1 USD = 7.8403 HKD, 1 CAD = 5.5484 HKD, 1 LKR = 0.02355193 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: Model Cars Houston and Carbro MC unchanged and sold out; the M&J Toys page could not be re-opened (price from 1 Nov). New: Ubuy Sri Lanka lists the MiJo version (MPN MGT00777-MJ) in stock at LKR 8,491, the only in-stock retail found."
+}

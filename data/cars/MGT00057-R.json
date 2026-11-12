@@ -1,0 +1,70 @@
+{
+  "code": "MGT00057-R",
+  "name": "LB★WORKS Lamborghini Aventador Light Blue — Mini GT #57 (RHD, 2019)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Model car",
+    "sourceUrl": "https://www.hlj.com/1-64-scale-lb-works-lamborghini-aventador-light-blue-right-hand-drive-mngmgt00057-r",
+    "source": "HobbyLink Japan"
+  },
+  "retail": [
+    {
+      "shop": "HobbyLink Japan",
+      "price": "US$10.31 (was US$12.13)",
+      "hkd": 80.83,
+      "status": "Discontinued",
+      "url": "https://www.hlj.com/1-64-scale-lb-works-lamborghini-aventador-light-blue-right-hand-drive-mngmgt00057-r"
+    }
+  ],
+  "resaleNote": "No resale listing could be verified on 8 Nov. The one readable eBay listing (US, used, US$80) still shows no drive side; the RHD-titled eBay SG/DE and Carousell SG listings could not be opened.",
+  "excluded": [
+    {
+      "label": "HobbyLink Japan, MGT00057-L (LHD)",
+      "url": "https://www.hlj.com/1-64-scale-lb-works-lamborghini-aventador-light-blue-left-hand-drive-mngmgt00057-l",
+      "reason": "left-hand-drive version, not the exact code; page not opened"
+    },
+    {
+      "label": "eBay US (seller in South Carolina), #57 Light Blue, US$80 + US$7.08 shipping, used (still active 8 Nov)",
+      "url": "https://www.ebay.com/itm/327362388547",
+      "reason": "no code or drive side in title or item specifics; eBay's catalogue entry for the same item number shows MPN MGT00057L with the confusing title 'Right Hand Drive Left'"
+    },
+    {
+      "label": "eBay UK, '57 LB Works Aventador Light Blue, MGT00057-L', £39.50",
+      "url": "https://www.ebay.co.uk/itm/306988681631",
+      "reason": "left-hand-drive code (-L); page not opened"
+    },
+    {
+      "label": "eBay UK catalogue page MGT00057R (RHD), sold out",
+      "url": "https://www.ebay.co.uk/p/14035860287",
+      "reason": "no active offer / price (still sold out 8 Nov)"
+    },
+    {
+      "label": "eBay SG/DE 'MINI GT 57 LBWK Aventador Light Blue RHD Asia version' (item 235614990923)",
+      "url": "https://www.ebay.com.sg/itm/235614990923",
+      "reason": "page could not be opened on 1 Nov or 8 Nov (ebay.com.sg and ebay.de); price and condition unverified"
+    },
+    {
+      "label": "Carousell SG, 'Mini GT LB Works Lamborghini Aventador Light Blue (RHD)' and a second Light Blue listing",
+      "url": "https://www.carousell.sg/p/mini-gt-lb-works-lamborghini-aventador-light-blue-rhd-280574341/",
+      "reason": "pages could not be opened on 1 Nov or 8 Nov"
+    },
+    {
+      "label": "Markas (MY), Mobile Garage HK, Amazon.de — #57 Light Blue RHD listings",
+      "url": "https://www.markas.my/mini-gt-lb-works-collection/mini-gt-1-64-57-lb-works-lamborghini-aventador-light-blue-rhd",
+      "reason": "pages could not be opened on 1 Nov or 8 Nov (blocked or error)"
+    },
+    {
+      "label": "Hobby300, '#57 chase' LB Works Aventador Blue",
+      "url": "https://hobby300.com/product/mini-gt-57-chase-lb-works-lamborghini-aventador-blue-minigt/",
+      "reason": "titled as a chase; the doc does not list a chase for this car; page blocked (1 Nov, 8 Nov)"
+    },
+    {
+      "label": "Modelmatic (UK) — SKU shown as MGT00057, listed as RHD, £12.99, sold out (re-checked 8 Nov)",
+      "url": "https://modelmatic.uk/products/lb-works-lamborghini-aventador-light-blue",
+      "reason": "page says RHD but shows no catalogue code with the -R suffix (same rule as other cars: suffix-less codes are not counted)"
+    }
+  ],
+  "fx": "1 USD = 7.8403 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Released 2019 as MGT00057-R (RHD) and MGT00057-L (LHD). Re-checked 8 Nov: the only retail listing (HLJ) is discontinued. Modelmatic shows SKU MGT00057 without suffix (states RHD), so it is not counted. The official minigt.tsm-models.com page blocks automated reading, so the identification rests on shop pages (HLJ)."
+}

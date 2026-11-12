@@ -1,6 +1,17 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "functions": {
+    "api/site.py": {
+      "includeFiles": "src/**"
+    }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/api/site?p=index" },
+    { "source": "/cars/:code", "destination": "/api/site?p=car&code=:code" },
+    { "source": "/sitemap.xml", "destination": "/api/site?p=sitemap" },
+    { "source": "/llms.txt", "destination": "/api/site?p=llms" }
+  ],
   "headers": [
     {
       "source": "/photos/(.*)",

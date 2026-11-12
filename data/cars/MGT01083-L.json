@@ -1,0 +1,136 @@
+{
+  "code": "MGT01083-L",
+  "name": "McLaren 720S LB★Works \"The Boring Concept\" (LHD)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": true,
+    "caption": "Box and car",
+    "sourceUrl": "https://www.skala64.pl/MINI-GT-McLaren-720S-LB-Works-The-Boring-Concept-LHD-MGT01083-L-MiniGT-p1146",
+    "source": "Skala64"
+  },
+  "retail": [
+    {
+      "shop": "Skala64 (PL)",
+      "price": "69.00 zł",
+      "hkd": 136.88,
+      "status": "Add to cart available",
+      "url": "https://www.skala64.pl/MINI-GT-McLaren-720S-LB-Works-The-Boring-Concept-LHD-MGT01083-L-MiniGT-p1146"
+    },
+    {
+      "shop": "Metro Hobbies (AU)",
+      "price": "A$27.99",
+      "hkd": 150.66,
+      "status": "Pre-order, stock not shown",
+      "url": "https://www.metrohobbies.com.au/products/mini-gt-mgt01083-l-1-64-mclaren-720s-lb-works-the-boring-concept"
+    },
+    {
+      "shop": "Anthony's Diecasts (AU)",
+      "price": "A$27.99",
+      "hkd": 150.66,
+      "status": "Sold out ('Only 0 left!')",
+      "url": "https://anthonysdiecasts.com.au/products/1-64-mclaren-720s-lb-works-the-boring-concept-mini-gt-mgt01083"
+    },
+    {
+      "shop": "JR Collectibles (CZ)",
+      "price": "443,00 Kč (shipping extra)",
+      "hkd": 159.02,
+      "status": "Sold out",
+      "url": "https://jrcollectibles.eu/cs/products/mini-gt-mclaren-720s-lb-works-the-boring-concept-2024"
+    },
+    {
+      "shop": "Hobbyco (AU), SKU shown as MGT01083L, title says LHD",
+      "price": "A$31.99",
+      "hkd": 172.19,
+      "status": "Sold out (notify me when available)",
+      "url": "https://www.hobbyco.com.au/products/1-64-mclaren-720s-lb-works-the-boring-concept-lhd"
+    },
+    {
+      "shop": "1:64 Specialist (IT)",
+      "price": "US$22.00 (duties incl.)",
+      "hkd": 172.49,
+      "status": "Sold out",
+      "url": "https://www.1-64specialist.com/en-ddp/products/mclaren-720s-lb-works-the-boring-concept-2024-1-64-scale-mgt01083-l"
+    }
+  ],
+  "resale": [
+    {
+      "shop": "eBay DE (commercial seller, new in box, MGT01083-L)",
+      "price": "EUR 18,95",
+      "hkd": 165.57,
+      "status": "Active listing, Buy It Now (+EUR 12,50 shipping)",
+      "url": "https://www.ebay.de/itm/376985797426"
+    },
+    {
+      "shop": "eBay DE (commercial seller, new - other, MPN MGT01083-L)",
+      "price": "EUR 20,50",
+      "hkd": 179.11,
+      "status": "Active listing, Buy It Now, 6 available, 2 sold (+EUR 36,00 shipping to US)",
+      "url": "https://www.ebay.de/itm/198321203604"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov: the same two eBay DE listings from commercial sellers still show the exact code MGT01083-L (asking prices, not sales; shipping not included). Other eBay listings show only 1083 / MGT01083 / blister without the -L suffix and are not counted.",
+  "resaleRange": {
+    "low": 165.57,
+    "high": 179.11,
+    "label": "2 listings, eBay DE asking prices"
+  },
+  "excluded": [
+    {
+      "label": "Horizon Diecast, MGT01083-BL, C$23.99, sold out",
+      "url": "https://horizondiecast.com/products/preorder-mini-gt-1-64-mclaren-720s-lb-works-the-boring-concept-mgt01083-bl",
+      "reason": "blister version, not -L"
+    },
+    {
+      "label": "eBay US, US$29.99, out of stock (21 sold)",
+      "url": "https://www.ebay.com/itm/267551350399",
+      "reason": "MPN MGT01083, no -L suffix"
+    },
+    {
+      "label": "eBay DE, EUR 15,90, new in box, 2 available",
+      "url": "https://www.ebay.de/itm/397595884648",
+      "reason": "title shows 'Nr#1083 LHD', no catalogue code with -L suffix"
+    },
+    {
+      "label": "Weye Model Cars, $17.99 (currency not named), sold out",
+      "url": "https://weyemodelcars.com/?p=26008",
+      "reason": "SKU MGT01083 without suffix; currency ambiguous"
+    },
+    {
+      "label": "Weye Model Cars product page, $17.99 (currency not named), sold out",
+      "url": "https://weyemodelcars.com/product/mini-gt-164-mclaren-720s-lb★works-the-boring-concept-1083/",
+      "reason": "same item as the ?p=26008 listing; SKU MGT01083 without suffix; currency ambiguous"
+    },
+    {
+      "label": "eBay DE, EUR 15,49, private seller, new unopened, 2 available",
+      "url": "https://www.ebay.de/itm/407270006181",
+      "reason": "title shows only '1083', no MPN with -L suffix"
+    },
+    {
+      "label": "eBay DE, EUR 22,99, #1083 Blisterversion",
+      "url": "https://www.ebay.de/itm/377175027044",
+      "reason": "blister version, not -L"
+    },
+    {
+      "label": "Model Cars Houston (US), US$18.99, sold out",
+      "url": "https://www.modelcarshouston.com/products/preorder-minigt-1-64-mclaren-720s-lb-works-the-boring-concept",
+      "reason": "SKU MGT01083-BL, blister version, not -L"
+    },
+    {
+      "label": "Top Collectibles, $19.99 (currency not named), pre-order",
+      "url": "https://topcollectibles.com/products/pre-order-mini-gt-mclaren-720s-lb-works-the-boring-concept",
+      "reason": "shows only '# 1083', no -L suffix; currency ambiguous"
+    },
+    {
+      "label": "JR Collectibles (CZ) pre-order page, MGT01083-L, 443,00 Kč, sold out",
+      "url": "https://jrcollectibles.eu/cs/products/pre-order-mini-gt-mclaren-720s-lb-works-the-boring-concept-2024",
+      "reason": "duplicate of the same shop's MGT01083-L listing at the same price; counted once"
+    },
+    {
+      "label": "Superhero Toy Store (IN), no price shown",
+      "url": "https://www.superherotoystore.com/collections/new-products/products/mclaren-720-s-lb-works-the-boring-concept-1-64-scale-die-cast-car-by-mini-gt-in-india",
+      "reason": "no catalogue code or price on page"
+    }
+  ],
+  "fx": "1 PLN = 1.9838 HKD, 1 AUD = 5.3827 HKD, 1 CZK = 0.35896282 HKD, 1 USD = 7.8403 HKD, 1 EUR = 8.7373 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: all 3 earlier retail pages re-opened, prices unchanged; Skala64 still has add to cart, Metro Hobbies still pre-order, Hobbyco still sold out. 3 new exact-code shops added (Anthony's Diecasts, JR Collectibles, 1:64 Specialist), all sold out."
+}

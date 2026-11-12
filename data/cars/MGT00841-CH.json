@@ -1,0 +1,65 @@
+{
+  "code": "MGT00841-CH",
+  "name": "McLaren 720S LB★Works Purple (-CH version)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": true,
+    "caption": "Box and car, LHD box version (no -CH photo found)",
+    "sourceUrl": "https://www.miskhagarage.com/en/products/mini-gt-mclaren-720s-lb-works-purple-841",
+    "source": "Miskha Garage"
+  },
+  "retailClose": [
+    {
+      "shop": "GP Mini Auto (US) — MGT00841-BL, blister",
+      "price": "US$13.99",
+      "hkd": 109.69,
+      "status": "Sold out",
+      "url": "https://gpminiauto.com/products/preorder-mini-gt-841-mclaren-720s-lb-works-purple-1-64"
+    },
+    {
+      "shop": "Miskha Garage — MGT00841, box",
+      "price": "US$16.00",
+      "hkd": 125.44,
+      "status": "Out of stock",
+      "url": "https://www.miskhagarage.com/en/products/mini-gt-mclaren-720s-lb-works-purple-841"
+    },
+    {
+      "shop": "Horizon Diecast (CA) — MGT00841, box",
+      "price": "C$12.99",
+      "hkd": 72.07,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/mini-gt-1-64-mclaren-720s-lb-works-purple-mgt00841"
+    },
+    {
+      "shop": "Horizon Diecast (CA) — MGT00841-BL, blister",
+      "price": "C$20.99",
+      "hkd": 116.46,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/mini-gt-1-64-mclaren-720s-lb-works-purple-mgt00841"
+    },
+    {
+      "shop": "Model Cars Houston (US) — MGT00841-MJ",
+      "price": "US$15.99",
+      "hkd": 125.37,
+      "status": "Sold out",
+      "url": "https://www.modelcarshouston.com/products/preorder-mini-gt-1-64-mclaren-720s-lb-works-in-purple"
+    },
+    {
+      "shop": "Hobbyco (AU) — MGT00841R",
+      "price": "A$24.99",
+      "hkd": 134.51,
+      "status": "Sold out (notify me when available)",
+      "url": "https://www.hobbyco.com.au/products/1-64-mclaren-720s-lb-works-purple"
+    },
+    {
+      "shop": "Hotmatch Collectables (AUD pricing) — MGT00841",
+      "price": "A$18.99 (sale, was A$19.99)",
+      "hkd": 102.22,
+      "status": "Sold out",
+      "url": "https://hotmatchcollectables.com/products/mini-gt-mclaren-720s-lb-works-purple"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov treating -CH as a regular catalogue suffix (not chase). No shop or resale listing showing MGT00841-CH could be found or opened. Big Boy Studio UK once listed MGT00841-CH, but that page is gone. The listings found carry MGT00841, -BL, -R or -MJ. eBay pages could not be opened.",
+  "fx": "1 USD = 7.8403 HKD, 1 CAD = 5.5484 HKD, 1 AUD = 5.3827 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: all seven close-match shop rows re-opened (Miskha Garage readable again), prices unchanged; Hobbyco now clearly sold out (notify-me). HKD re-converted at 8 Nov rates. No retail listing for MGT00841-CH found."
+}

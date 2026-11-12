@@ -1,0 +1,62 @@
+{
+  "code": "MGT00652-R",
+  "name": "Nissan Silvia S15 LB-Super Silhouette \"Garuda\" — Mini GT x MIZU Diecast (RHD)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Mini GT prototype photo, RHD (no box photo found)",
+    "sourceUrl": "https://horizondiecast.com/products/mini-gt-x-mizu-1-64-nissan-lb-super-silhouette-s15-silvia-garuda-mgt00652-r-rhd",
+    "source": "Horizon Diecast"
+  },
+  "retail": [
+    {
+      "shop": "Horizon Diecast (CA)",
+      "price": "C$17.99",
+      "hkd": 99.82,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/mini-gt-x-mizu-1-64-nissan-lb-super-silhouette-s15-silvia-garuda-mgt00652-r-rhd"
+    },
+    {
+      "shop": "MASH via Yahoo Auctions Taiwan (listed as #652 RHD)",
+      "price": "NT$480",
+      "hkd": 115.62,
+      "status": "In stock (6 available), new",
+      "url": "https://tw.bid.yahoo.com/item/101555283065/index.md"
+    }
+  ],
+  "resaleNote": "No resale listing could be verified (re-checked 8 Nov). The eBay.de listing titled 'MGT00652-R' (item 266859065103) and eBay US item 266900171542 still could not be opened; the eBay catalogue page for the car is sold out with no price. The eBay 'Garuda CHASE' listings show no code or RHD, so they aren't counted.",
+  "excluded": [
+    {
+      "label": "HobbyDigi (HK), 139.9",
+      "url": "https://www.hobbydigi.com/en/tsm-1-64-mini-gt-diecast-model-car-nissan-lb-super-silhouette-s15-silvia-e2-80-9cgaruda-e2-80-9d-c2-a0-mini-gt-x-mizu-diecast-rhd",
+      "reason": "page lists the currency as USD on an HK shop, so the price can't be read reliably; stock not shown"
+    },
+    {
+      "label": "Active Powersports, US$11.84",
+      "url": "https://www.activepowersports.com/mini-gt-1-64-nissan-lb-super-silhouette-s15-silvia-garuda-a-mini-gt-x-mizu-diecast-diecast/",
+      "reason": "no RHD or catalogue suffix shown (image file suggests the -LB blister)"
+    },
+    {
+      "label": "eBay US 'Garuda CHASE', US$60 + US$16 shipping",
+      "url": "https://www.ebay.com/itm/235770598967",
+      "reason": "chase version; no catalogue code or RHD/LHD shown"
+    },
+    {
+      "label": "eBay DE 'Garuda ***CHASE***' listing",
+      "url": "https://www.ebay.de/itm/405404428757",
+      "reason": "chase version; page not opened"
+    },
+    {
+      "label": "eBay US catalogue page (GTIN 4895183667791), sold out",
+      "url": "https://www.ebay.com/p/28068853408",
+      "reason": "no catalogue code or RHD shown; currently sold out with no active price"
+    },
+    {
+      "label": "Reach.dog (Diecast 164 LLC), '#652' clamshell blister, $21.95",
+      "url": "https://reach.dog/shop/diecast-164-llc/products/mini-gt-lb-super-silhouette-nissan-silvia-s15-garuda-mizu-diecast",
+      "reason": "no catalogue code or RHD shown (blister suggests -LB); bare '$' with no currency stated"
+    }
+  ],
+  "fx": "1 CAD = 5.5484 HKD, 1 TWD = 0.24087 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Re-checked 8 Nov: Horizon Diecast still sold out at C$17.99; the Yahoo Auctions Taiwan listing still shows NT$480, new, 6 available. The Sunrich Japan row was dropped on 25 Oct (mail-order sales suspended). No new exact-code listings found; a Reach.dog blister listing (#652, bare $21.95, no code or RHD) is excluded."
+}

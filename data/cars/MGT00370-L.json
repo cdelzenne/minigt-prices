@@ -1,0 +1,105 @@
+{
+  "code": "MGT00370-L",
+  "name": "Pagani Zonda HP Barchetta Blue Tricolore (LHD)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Mini GT prototype photo, LHD (no box photo found)",
+    "sourceUrl": "https://horizondiecast.com/products/mini-gt-1-64-pagani-zonda-hp-barchetta-blue-tricolor-lhd-mgt00370-l",
+    "source": "Horizon Diecast"
+  },
+  "retail": [
+    {
+      "shop": "Horizon Diecast (CA)",
+      "price": "C$14.99",
+      "hkd": 83.17,
+      "status": "Sold out",
+      "url": "https://horizondiecast.com/products/mini-gt-1-64-pagani-zonda-hp-barchetta-blue-tricolor-lhd-mgt00370-l"
+    },
+    {
+      "shop": "Debenhams marketplace, seller Mcslots (UK) — listed as MGT00370L, LHD",
+      "price": "£16.99",
+      "hkd": 177.9,
+      "status": "Out of stock",
+      "url": "https://www.debenhams.com/product/mini-gt-pagani-zonda-hp-barchetta-blue-tricolore-lhd-1-64-scale-mini-gt-mgt00370l_p-5ae0c6b4-9551-469b-896f-7ddc6d31b486"
+    },
+    {
+      "shop": "J-Toys Hobby (US) — listed as MGT00370-LHD",
+      "price": "US$29.99",
+      "hkd": 235.13,
+      "status": "Sold out",
+      "url": "https://www.j-toys-hobby.com/products/mini-gt-370-pagani-zonda-hp-barchetta-blue-tricolore"
+    },
+    {
+      "shop": "VAG Cafe (South Africa)",
+      "price": "R 230.00",
+      "hkd": 108.06,
+      "status": "Only 1 left in stock",
+      "url": "https://www.vagcafe.com/product/mini-gt-pagani-zonda-hp-barchetta-blue-tricolor/"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov. Retail note: Debenhams lists the code as MGT00370L (no hyphen) and J-Toys Hobby as MGT00370-LHD; both titles/codes state LHD, so they are counted as -L. No resale listing with the exact code could be opened; the eBay US listing (mydiecastworld, US$29.99) shows MGT00370 with no suffix, and the Carousell HK, AliExpress, eBay DE/AU and Tokopedia pages could not be read on 8 Nov.",
+  "excluded": [
+    {
+      "label": "AGR Models UK, £16.99, sold out",
+      "url": "https://agrmodels.uk/products/mini-gt-pagani-zonda-hp-barchetta-blue-tricolore-lhd-1-64-370",
+      "reason": "SKU shown as MGT00370-MJ (MiJo version), not -L"
+    },
+    {
+      "label": "eBay US (seller mydiecastworld), new, US$29.99 + US$5.75 shipping, active (2 available)",
+      "url": "https://www.ebay.com/itm/374270833527",
+      "reason": "MPN shown as MGT00370, no suffix; drive side not stated (also listed as item 307216289610)"
+    },
+    {
+      "label": "BT Diecast, MGT00370, $12.99, out of stock",
+      "url": "https://btdiecast.com/product/mini-gt-mgt00370/",
+      "reason": "SKU has no suffix and '$' has no currency code"
+    },
+    {
+      "label": "LiveCarModel, US$49.95",
+      "url": "https://livecarmodel.com/products/1-64-mini-gt-pagani-zonda-hp-barchetta-blue-tricolordiecast-car-model.html",
+      "reason": "no model code or drive side stated on the page (only an image filename mentions MGT00370-L)"
+    },
+    {
+      "label": "eBay US, Tarmac Works 1:64 Pagani Zonda Revolución (Blue Metallic), US$15.99",
+      "url": "https://www.ebay.com/itm/374323673419",
+      "reason": "different car and brand"
+    },
+    {
+      "label": "AliExpress, MINI GT 1:64 Pagani Zonda HP Barchetta Blue Tricolor LHD, US$15.92 (search snippet)",
+      "url": "https://www.aliexpress.com/item/1005004546453614.html",
+      "reason": "page blocked automated reading on 25 Oct, 1 Nov and 8 Nov, so code, seller and condition could not be verified"
+    },
+    {
+      "label": "Carousell HK, Mini GT 1/64 Pagani Zonda HP Barchetta Blue Tricolor",
+      "url": "https://www.carousell.com.hk/p/mini-gt-1-64-pagani-zonda-hp-barchetta-blue-tricolor-1174378355/",
+      "reason": "page could not be opened on 25 Oct, 1 Nov or 8 Nov; code and price unverified"
+    },
+    {
+      "label": "Amazon US, Truescale Pagani Zonda HP Barchetta Blue Tricolore, MGT00370 (search result)",
+      "url": "https://www.amazon.com/Truescale-Miniatures-Barchetta-Tricolore-Interior/dp/B0BCX4ZWFY",
+      "reason": "title shows MGT00370 with no suffix, and the page could not be opened on 1 Nov (blocked)"
+    },
+    {
+      "label": "eBay DE item 196560771112 (search result for MGT00370 Zonda HP Barchetta)",
+      "url": "https://www.ebay.de/itm/196560771112",
+      "reason": "page could not be opened on 1 Nov or 8 Nov; code and price unverified"
+    },
+    {
+      "label": "Modelcars.com (US), MGT00370, US$18.95, sold out",
+      "url": "https://modelcars.com/products/pagani-zonda-hp-barchetta-convertible-blue-tricolore-metallic-and-carbon-with-white-interior-limited-edition-to-4200-pieces-worldwide-1-64-diecast-model-car-by-mini-gt",
+      "reason": "SKU MGT00370 with no suffix; drive side not stated"
+    },
+    {
+      "label": "eBay AU, 'Mini GT 1/64 Pagani Zonda HP Barchetta Blue Tricolor LHD' (search result)",
+      "url": "https://www.ebay.com.au/itm/134585490329",
+      "reason": "page could not be opened on 8 Nov; code and price unverified"
+    },
+    {
+      "label": "Tokopedia, GMG-Hobbies, 'MINIGT 370 Pagani Zonda HP Barchetta Blue Tricolore' (search result)",
+      "url": "https://www.tokopedia.com/gmg-hobbies/minigt-370-pagani-zonda-hp-barchetta-blue-tricolore-diecast-mgt",
+      "reason": "page returned a server error on 8 Nov; code, condition and price unverified"
+    }
+  ],
+  "fx": "1 USD = 7.8403 HKD, 1 CAD = 5.5484 HKD, 1 GBP = 10.4706 HKD, 1 ZAR = 0.46982 HKD (XE mid-market, 8 Nov 2026)"
+}

@@ -1,0 +1,117 @@
+{
+  "code": "MGT00639-R",
+  "name": "Lamborghini LB-Silhouette WORKS Aventador GT EVO Yellow — Mini GT #639 (RHD)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": false,
+    "caption": "Model (prototype sample, LHD version shown)",
+    "sourceUrl": "https://rainbowrailways.co.uk/product/minigt-mgt00639-r-lambourghini-lb-silhouette-aventador-gt-evo-yellow-rhd-164-scale/",
+    "source": "Rainbow Railways"
+  },
+  "retail": [
+    {
+      "shop": "Rainbow Railways (UK)",
+      "price": "£11.50",
+      "hkd": 120.41,
+      "status": "Stock not shown",
+      "url": "https://rainbowrailways.co.uk/product/minigt-mgt00639-r-lambourghini-lb-silhouette-aventador-gt-evo-yellow-rhd-164-scale/"
+    },
+    {
+      "shop": "Sipokaz Mart (SG)",
+      "price": "S$38.90",
+      "hkd": 237.81,
+      "status": "Out of stock",
+      "url": "https://www.sipokazmart.com/product-page/lamborghini-lb-silhouette-works-aventador-gt-evo-yellow"
+    }
+  ],
+  "resaleNote": "No resale listing could be verified on 8 Nov. The eBay US #639 listing shows no drive side and ended 29 Oct; the -MJ eBay DE listing ended. An eBay US listing titled RHD and Carousell SG/PH listings (one titled chase) could not be opened.",
+  "excluded": [
+    {
+      "label": "Borgese Idea (IT), MGT00639-L, €15.90, sold out",
+      "url": "https://borgeseidea.com/en-en/products/lamborghini-lb-silhouette-works-aventador-gt-evo-yellow-mini-gt-scala-1-64-mgt00639-l",
+      "reason": "left-hand-drive version (-L), not the exact code"
+    },
+    {
+      "label": "eBay DE (seller in China), MGT00639-MJ, US$58.99 + US$10.98 shipping, ended",
+      "url": "https://www.ebay.de/itm/395268973822",
+      "reason": "different code (-MJ, Mijo Exclusives release); listing ended by seller"
+    },
+    {
+      "label": "eBay DE catalogue page 'Mijo Exclusives' Aventador GT EVO Yellow (MPN MGT00639), sold out",
+      "url": "https://www.ebay.de/itm/376528536366",
+      "reason": "Mijo Exclusives (US) release, no drive side shown; no active price"
+    },
+    {
+      "label": "eBay US (seller in Massachusetts), #639, US$30 + US$6 shipping, new, ended 29 Oct (2 sold)",
+      "url": "https://www.ebay.com/itm/336775649890",
+      "reason": "MPN MGT00639 with no suffix and no drive side; listing ended"
+    },
+    {
+      "label": "Mobile Garage HK, #639, €16.95",
+      "url": "https://www.mobilegaragehk.com/products/mini-gt-639-lamborghini-lb-silhouette-works-aventador-gt-evo-yellow",
+      "reason": "no catalogue code or drive side shown; stock status contradictory"
+    },
+    {
+      "label": "Pacifiko (GT), MGT00639, Q390.00",
+      "url": "https://pacifiko.com/compras-en-linea/true-scale-miniatures-model-car-compatible-with-lb-silhouette-works-lamborghini-aventador-gt-evo-yellow1-64-diecast-model-car-mgt00639&pid=ZDIzMjYwMz",
+      "reason": "no drive side or suffix shown (Amazon reseller listing)"
+    },
+    {
+      "label": "Bachmann Europe (UK distributor), Amazon.es, Games World (AU), Kidbox (JP), Toys Planet (IT) — all titled MGT00639-R",
+      "url": "https://www.bachmann.co.uk/product/lambourghini-lb-silhouette-aventador-gt-evo-yellow-(rhd)/mgt00639-r",
+      "reason": "pages could not be opened on 1 Nov or 8 Nov (blocked or error); prices unverified"
+    },
+    {
+      "label": "Diecast Talk shop, 'HK Toy Car Salon 23 Exclusive' Aventador GT EVO Yellow",
+      "url": "https://shopdiecasttalk.com/products/mini-gt-hk-toy-car-salon-23-exclusive-lamborghini-lb-silhouette-works-aventador-gt-evo-yellow",
+      "reason": "page could not be opened (blocked); may be a different event release"
+    },
+    {
+      "label": "Modelmatic (UK) — SKU shown as MGT00639, listed as RHD, £13.49, sold out",
+      "url": "https://modelmatic.uk/products/639-lamborghini-lb-silhouette-works-aventador-gt-evo-yellow",
+      "reason": "page says RHD but shows no catalogue code with the -R suffix (same rule as other cars: suffix-less codes are not counted)"
+    },
+    {
+      "label": "Mini Toy Sensei (UK) — listed as No.639, RHD (no catalogue code shown), £14.00, sold out",
+      "url": "https://minitoysensei.co.uk/products/mini-gt-no-639-lb-silhouette-works-lamborghini-aventador-gt-evo-yellow",
+      "reason": "page says RHD but shows no catalogue code with the -R suffix (same rule as other cars: suffix-less codes are not counted)"
+    },
+    {
+      "label": "1:64 Specialist, MGT00639-L, US$17.00, sold out",
+      "url": "https://www.1-64specialist.com/en-world/products/mini-gt-lamborghini-lb-silhouette-works-aventador-gt-evo-yellow-scale-1-64-mgt00639-l",
+      "reason": "left-hand-drive version (-L), not the exact code"
+    },
+    {
+      "label": "Diecast Republic, #639, US$13.00, out of stock",
+      "url": "https://diecastrepublic.com/mini-gt/mini-gt-639-lamborghini-lb-silhouette-works-aventador-gt-evo-yellow-preorder/",
+      "reason": "no catalogue code suffix or drive side shown"
+    },
+    {
+      "label": "Diecastz, MiniGT 639, US$16.99, sold out",
+      "url": "https://diecastz.com/products/minigt-639-lb-silhouette-works-lamborghini-aventador-gt-evo-yellow",
+      "reason": "no catalogue code or drive side shown"
+    },
+    {
+      "label": "Desertcart IT (Amazon reseller), MGT00639, €58.16, in stock",
+      "url": "https://www.desertcart.it/products/618333560-truescale-miniatures-true-scale-model-car-compatible-with-lb-silhouette.md",
+      "reason": "code MGT00639 with no suffix, drive side not stated"
+    },
+    {
+      "label": "eBay US item 225976560357, 'MINI GT 639 ... Yellow New RHD' (search result)",
+      "url": "https://www.ebay.com/itm/225976560357",
+      "reason": "page could not be opened on 8 Nov; code and price unverified"
+    },
+    {
+      "label": "Carousell SG, 'Aventador GT Evo Yellow Mini GT 639' (search result)",
+      "url": "https://www.carousell.sg/p/lb-silhouette-works-lamborghini-aventador-gt-evo-yellow-mini-gt-639-1317033391/",
+      "reason": "page could not be opened on 8 Nov; drive side and price unverified"
+    },
+    {
+      "label": "Carousell PH, 'Aventador GT EVO Yellow (CHASE)' (search result)",
+      "url": "https://www.carousell.ph/p/mini-gt-1-64-scale-lamborghini-lb-silhouette-works-lbwk-aventador-gt-evo-yellow-chase-die-cast-car-1310714215/",
+      "reason": "page could not be opened on 8 Nov; titled as a chase, code and drive side unverified"
+    }
+  ],
+  "fx": "1 GBP = 10.4706 HKD, 1 SGD = 6.1133 HKD (XE mid-market, 8 Nov 2026)",
+  "notes": "Released as MGT00639-R (RHD), MGT00639-L (LHD) and MGT00639-MJ (Mijo Exclusives). Re-checked 8 Nov: 2 retail listings for the RHD version (Rainbow Railways £11.50, stock not shown; Sipokaz Mart S$38.90, out of stock), unchanged. Modelmatic (SKU MGT00639, RHD) and Mini Toy Sensei (No.639, RHD) are excluded because no -R code is shown. The Sipokaz Mart (SG) price is well above the UK shop. The official minigt.tsm-models.com page blocks automated reading, so the identification rests on shop pages."
+}

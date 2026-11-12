@@ -1,0 +1,91 @@
+{
+  "code": "MGT00146",
+  "name": "LB★WORKS Lamborghini Huracán GT Magic Green — Tarmac Works x Mini GT collab (2020)",
+  "checkedAt": "2026-11-08",
+  "photo": {
+    "isBox": true,
+    "caption": "Box and car (LHD version)",
+    "sourceUrl": "https://www.modelcarshouston.com/products/lb-e2-98-85works-lamborghini-huracan-gt-magic-green-lhd-version",
+    "source": "Model Cars Houston"
+  },
+  "retailClose": [
+    {
+      "shop": "M&J Toys (US distributor, MSRP) — MGT00146-L, LHD",
+      "price": "US$22.99",
+      "hkd": 180.25,
+      "status": "Out of stock (arrived sold out) — could not be re-opened 25 Oct, 1 Nov or 8 Nov; price from 18 Oct",
+      "url": "https://mjtoysinc.com/product/mini-gt-164-tarmac-works-exclusive-lb-works-lamborghini-huracan-gt-lhd-special-magic-green-c"
+    },
+    {
+      "shop": "Model Cars Houston (US) — MGT00146-L, LHD",
+      "price": "US$19.99",
+      "hkd": 156.73,
+      "status": "Sold out",
+      "url": "https://www.modelcarshouston.com/products/lb-e2-98-85works-lamborghini-huracan-gt-magic-green-lhd-version"
+    },
+    {
+      "shop": "HobbyDigi (HK) — MGT00146-R, RHD",
+      "price": "HK$119.90",
+      "hkd": 119.9,
+      "status": "Stock not shown",
+      "url": "https://www.hobbydigi.com/en_us/tarmac-works-x-tsm-mini-gt-1-64-exclusive-diecast-model-car-lb-e2-98-85works-lamborghini-hurac-c3-a1n-gt-magic-green-rhd-right-hand-drive"
+    },
+    {
+      "shop": "HobbyLink Japan — MGT00146-R, RHD",
+      "price": "US$17.84 (was US$19.82)",
+      "hkd": 139.87,
+      "status": "Discontinued",
+      "url": "https://www.hlj.com/1-64-scale-lb-works-lamborghini-huracan-gt-magic-green-tarmac-works-limited-edition-right-hand-drive-mngmgt00146-r"
+    }
+  ],
+  "resaleNote": "Re-checked 8 Nov: no resale listing shows the exact code MGT00146. A Carousell SG listing of the LHD blister (S$155) is excluded as the -L version. eBay (ebay.com/ebay.de) and Tokopedia pages for this car could not be opened on 8 Nov.",
+  "excluded": [
+    {
+      "label": "BT Diecast, MGT00146, $29.99, out of stock (re-checked 8 Nov)",
+      "url": "https://btdiecast.com/product/mini-gt-mgt00146/",
+      "reason": "exact code, but the page shows '$' without saying which dollar"
+    },
+    {
+      "label": "HobbyDigi (HK), MGT00146-CS, HK$299.90",
+      "url": "https://www.hobbydigi.com/en_us/tarmac-works-x-tsm-mini-gt-collab64-1-64-exclusive-limited-diecast-model-car-lb-works-lamborghini-huracan-gt-magic-green-right-hand-drive",
+      "reason": "different code (-CS), not the regular MGT00146"
+    },
+    {
+      "label": "Diecast Enthusiast, CHASE Huracan GT Magic Green, US$44.99, sold out",
+      "url": "https://diecastenthusiast.com/products/in-stock-chase-mini-gt-tarmac-lb-works-lamborghini-huracan-gt-magic-green-1-64",
+      "reason": "titled as a chase with no code; the doc does not list a chase for this car"
+    },
+    {
+      "label": "Carousell SG, #MGT146-DS sealed box version, S$160",
+      "url": "https://www.carousell.sg/p/sealed-box-version-mini-gt-×-tarmac-works-lb★works-lamborghini-huracán-gt-magic-green-mgt146-ds-1453662211/",
+      "reason": "different code (-DS, sealed box release), not the regular blister"
+    },
+    {
+      "label": "Carousell SG, #146 and #145 Magic Green, S$250",
+      "url": "https://www.carousell.sg/p/mini-gt-lb-works-magic-green-146-and-145-1397856506/",
+      "reason": "two-car bundle"
+    },
+    {
+      "label": "eBay (seller in Indonesia), Huracan GT Magic Green, US$65 + US$25 shipping, used, sold 6 Sep",
+      "url": "https://www.ebay.de/itm/355693439384",
+      "reason": "no code or drive side shown; used, outer box only; already sold (re-confirmed sold on 1 Nov)"
+    },
+    {
+      "label": "Carousell SG, S$155, brand new #146 LHD blister",
+      "url": "https://www.carousell.sg/p/last-piece-mini-gt-lamborghini-lbwk-lb-works-lamborghini-huracan-gt-magic-green-146-lhd-version-1-64-blister-brand-new-in-box-vhtf-rare-1366116475/",
+      "reason": "left-hand-drive version (MGT00146-L), not the exact code MGT00146"
+    },
+    {
+      "label": "eBay US/DE item 157049704055 and eBay DE item 365786872862 (search results for MGT00146 Magic Green)",
+      "url": "https://www.ebay.com/itm/157049704055",
+      "reason": "pages could not be opened on 1 Nov or 8 Nov; code, drive side and price unverified"
+    },
+    {
+      "label": "Tokopedia (Garing's Toys), Mini GT LBWORKS Lamborghini Huracan GT Magic Green",
+      "url": "https://www.tokopedia.com/garingtoys/mini-gt-lbworks-lamborghini-huracan-gt-magic-green",
+      "reason": "page needs JavaScript and returned no content on 1 Nov or 8 Nov; code, drive side, condition and price unverified"
+    }
+  ],
+  "fx": "1 USD = 7.8403 HKD (XE mid-market, 8 Nov 2026); M&J Toys row recomputed at the same rate from its 18 Oct USD price",
+  "notes": "This car was sold as MGT00146-L (left-hand drive) and MGT00146-R (right-hand drive). Retail is a close match from both until the drive side is confirmed. Re-checked 8 Nov: the M&J Toys page still could not be opened (third run in a row); price from 18 Oct. Other close-match prices and statuses unchanged."
+}
